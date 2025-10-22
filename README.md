@@ -2,3 +2,4 @@
 Team Leader: 김지혁
 Team Leader: 20241051
 Project 04 version1 completed
+2nd team Member : 설민우
